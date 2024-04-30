@@ -52,7 +52,7 @@ ThermoPy provides the following key features:
 
 ## License
 
-ThermoPy is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/willbribeiro/ThermoPy/blob/main/LICENSE) file for details.
+ThermoPy is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/willbribeiro/ThermoPy/blob/main/LICENSE) file for details. You are free to use, modify, and distribute the code for any purpose.
 
 ## Contributions
 
