@@ -9,13 +9,13 @@ ThermoPy is a command-line tool written in Python. To use it, follow these steps
 1. Clone the repository:
 
   ```
-  git clone https://github.com/willbribeiro/thermopy.git
+  git clone https://github.com/willbribeiro/ThermoPy.git
   ```
 
 2. Navigate to the project directory:
 
   ```
-  cd thermopy
+  cd ThermoPy
   ```
 
 3. Install the required dependencies:
